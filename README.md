@@ -1,6 +1,6 @@
 # MaySelling
 ```css
-weapons:
+mm2 weapons:
 + darkbringer 
 + lightbringer
 + heart blade 
@@ -23,7 +23,7 @@ weapons:
 + red luger
 + snowflake 
 + aurora set
--- pets:
+-- mm2 pets:
 + fire bear 
 + fire bat 
 + fire dog 
@@ -33,7 +33,7 @@ weapons:
 ```css
 + 25k bloxburg cash 
 ```
-```css
+```css Pet Simulator
 + 3m gems in pet simulator 
 + haxokotl legendary 
 + haxigator epic
